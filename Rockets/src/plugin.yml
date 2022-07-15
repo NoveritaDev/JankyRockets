@@ -1,0 +1,5 @@
+name: JankyRockets
+version: 1.0
+author: Noverita
+main: me.noverita.rockets.Main
+api-version: 1.13
